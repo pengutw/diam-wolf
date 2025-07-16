@@ -1,10 +1,13 @@
 # diam-wolf
-鑽石人狼伺服器 原始碼公開版本
-安裝難度有點高請不提供任何技術支援
-
-announcement.txt
-公告檔案，可隨意編輯
-
+鑽石人狼伺服器 原始碼公開版本<br />
+安裝難度有點高請不提供任何技術支援<br />
+<br />
+data.sql<br />
+資料庫<br />
+<br />
+announcement.txt<br />
+公告檔案，可隨意編輯<br />
+<br />
 setting.php<br />
 //資料庫使用者名稱<br />
 $db_uname = '';<br />

@@ -31,6 +31,8 @@ socket/websockets.php<br />
 這兩個改成自己的SSL憑證絕對路徑<br />
 'ssl_cert_file' => "fullchain.pem",<br />
 'ssl_key_file'  => "privkey.pem",<br />
+然後用PHP讓他掛背景跑，這是WebSocket用的<br />
+不設定會無法自動更新<br />
 <br />
 <br />
 設定網站socket目錄不准許讀取不然很危險<br />

@@ -1,6 +1,7 @@
 # diam-wolf
 鑽石人狼伺服器 原始碼公開版本<br />
 安裝難度有點高不提供任何技術支援<br />
+PHP版本支援8.4，一定要裝Swoole模組<br />
 <br />
 data.sql<br />
 資料庫<br />
